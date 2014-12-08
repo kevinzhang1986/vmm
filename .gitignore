@@ -1,0 +1,37 @@
+
+#
+# vim
+#
+*.swp
+
+#
+# C
+#
+*.o
+*.a
+*.so
+*.h.gc
+a.out
+*.exe
+
+#
+# python
+#
+*.pyc
+*.pyo
+
+#
+# Kernel
+#
+*.ko
+machine
+@
+x86
+export_syms
+
+opt_*.h
+bus_if.h
+device_if.h
+pci_if.h
+vmx_assym.s
+
